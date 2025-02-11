@@ -1,0 +1,4 @@
+Pomme,2.50
+Banane,1.20
+Orange,3.00
+Peche,2.50
